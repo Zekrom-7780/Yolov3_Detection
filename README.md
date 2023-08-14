@@ -1,12 +1,12 @@
-# YOLOv3
-Keras(TF backend) implementation of yolo v3 objects detection. 
-
+# YOLOv3_Detection
+ 
+This is the Yolov3 Detection fot static images as well as videos.
 
 
 ## Requirements
-- OpenCV 3.4
+- OpenCV 4.4
 - Python 3.6    
-- Tensorflow-gpu 1.5.0  
+- Tensorflow-gpu 2.12.0 
 - Keras 2.1.3
 
 ## Quick start
