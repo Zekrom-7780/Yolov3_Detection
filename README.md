@@ -27,7 +27,6 @@ python demo.py
 
 ## Demo result
 
-It can be seen that yolo v3 has a better classification ability than yolo v2.
-
 <img width="400" height="350" src="/images/res/dog.jpg"/><img width="400" height="350" src="/images/res/person.jpg"/>
 
+## Implementation in Rust
